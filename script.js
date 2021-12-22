@@ -4,7 +4,7 @@ var h = window.innerHeight;
 var center_x = w / 2;
 var center_y = h / 2;
 
-var colors = ["#FF0000", "#E8D45B", "#8CFF00"];
+var colors = ["#5c8bc4", "#386f43", "#e0af6b"];
 
 // I know the abs is not needed... but oh well
 var max_distance = Math.abs(Math.max(center_x, center_y));
